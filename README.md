@@ -25,7 +25,3 @@ Program, girilen yüzde değerlerini ondalık orana çevirerek hesaplamayı yapa
 Bu program standart C kütüphanelerini kullanır. Derlemek ve çalıştırmak için bir C derleyicisine (örneğin GCC) ihtiyacınız vardır.
 
 
-
-4.  İstenen değerleri girin ve programın Sharpe Oranını ve buna ait yorumu hesaplamasını izleyin.
-
-### Örnek Çalışma
