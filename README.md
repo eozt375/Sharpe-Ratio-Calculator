@@ -15,7 +15,9 @@ Program, kullanıcıdan aşağıdaki üç değeri **yüzde (%) olarak** girmesin
 
 Sharpe Oranı aşağıdaki formülle hesaplanır:
 
-Sharpe = {Getiri - RisksizFaiz}\{StandartSapma}
+\[
+Sharpe = \frac{Getiri - Risksiz \, Faiz}{Standart \, Sapma}
+\]
 
 
 Program, girilen yüzde değerlerini ondalık orana çevirerek hesaplamayı yapar ve sonucu ekrana yazdırır.
